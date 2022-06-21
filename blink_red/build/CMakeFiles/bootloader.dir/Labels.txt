@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Trix/bcr/Study/blink-test/blink_red/build/CMakeFiles/bootloader
+C:/Trix/bcr/Study/blink-test/blink_red/build/CMakeFiles/bootloader.rule
+C:/Trix/bcr/Study/blink-test/blink_red/build/CMakeFiles/bootloader-complete.rule
+C:/Trix/bcr/Study/blink-test/blink_red/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Trix/bcr/Study/blink-test/blink_red/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Trix/bcr/Study/blink-test/blink_red/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Trix/bcr/Study/blink-test/blink_red/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Trix/bcr/Study/blink-test/blink_red/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Trix/bcr/Study/blink-test/blink_red/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Trix/bcr/Study/blink-test/blink_red/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
